@@ -13,5 +13,4 @@ public class helloController {
     public String sayHi(){
         return "Hi";
     }
-
 }
